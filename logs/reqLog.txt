@@ -232,3 +232,9 @@
 05-07-2024 	 01:06:42 	 043aaa14-50c8-483f-91cb-2bcc6a7069a9 	 GET	undefined	/states/ok/funfact 
 05-07-2024 	 01:06:42 	 019f6ff4-7466-4af1-a8a4-b78d2a2b1979 	 GET	undefined	/states/ok/funfact 
 05-07-2024 	 01:06:43 	 30400b97-1b97-48b6-ae0c-1f4e0533483f 	 GET	undefined	/states/ok/funfact 
+05-07-2024 	 02:23:18 	 7fab9220-567d-4fd3-bbd4-8f106e6edd27 	 GET	undefined	/ 
+05-07-2024 	 02:23:18 	 bc8368c3-6566-4aec-89f3-4d1083ab8943 	 GET	undefined	/style.css 
+05-07-2024 	 02:23:25 	 da6fa008-d2f9-45ed-856c-be32912cfd3b 	 GET	undefined	/states/ca/funfact 
+05-07-2024 	 02:23:35 	 8f551b04-cb71-4988-b5c1-731858028b64 	 GET	undefined	/states/ks/funfact 
+05-07-2024 	 02:23:37 	 f2459673-7fa6-4bf9-a093-af036c4a4d73 	 GET	undefined	/states/ks/funfact 
+05-07-2024 	 02:23:37 	 76542a80-642d-4072-8081-37206b7688f4 	 GET	undefined	/states/ks/funfact 
